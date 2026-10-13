@@ -1,0 +1,7 @@
+{
+  "name": "js-test",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  }
+}
